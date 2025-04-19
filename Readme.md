@@ -4,7 +4,7 @@ A clean, responsive student registration form built using **HTML, CSS, and JavaS
 
 ---
 
-🔗 **Live Demo**: [Click here to view the project](https://your-username.github.io/your-repo-name/)
+🔗 **Live Demo**: [Click here to view the project](https://ulaganathan0709.github.io/Studen_form/)
 
 
 ## ✨ Features
@@ -36,7 +36,7 @@ A clean, responsive student registration form built using **HTML, CSS, and JavaS
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-registration-form.git
+   git clone https://github.com/Ulaganathan0709/Studen_form.git
 
    Open index.html in any modern web browser (Chrome, Edge, Firefox, etc.)
 
